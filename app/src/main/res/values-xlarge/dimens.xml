@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <dimen name="splash_text_size">35sp</dimen>
+    <dimen name="splash_img_width">500dp</dimen>
+    <dimen name="start_btn_W">150dp</dimen>
+    <dimen name="start_btn_H">80dp</dimen>
+    <dimen name="spash_privacy_text_size">15sp</dimen>
+    <dimen name="splash_img_weight">2</dimen>
+    <dimen name="spl_text_margin">5dp</dimen>
+    <dimen name="start_btn_MarginB">40dp</dimen>
+
+    <!--   _____________ CustomiseImage ___________    -->
+
+
+    <dimen name="main_button_HW">70dp</dimen>
+    <dimen name="tools_HW">110dp</dimen>
+    <dimen name="main_sticker_HW">110dp</dimen>
+    <dimen name="main_button_padding">10dp</dimen>
+    <dimen name="main_card_margin_LR">16dp</dimen>
+    <dimen name="main_card_margin_TB">15dp</dimen>
+
+
+    <dimen name="all_note_margin">15dp</dimen>
+    <dimen name="all_note_height">320dp</dimen>
+    <dimen name="all_txtsize_title">22sp</dimen>
+    <dimen name="all_sticker_size">100dp</dimen>
+    <dimen name="all_margin_content">8dp</dimen>
+    <dimen name="all_txtsize_content">18sp</dimen>
+
+    <dimen name="content_size_todo">19sp</dimen>
+    <dimen name="icon_size_todo">45dp</dimen>
+    <dimen name="date_size_todo">17sp</dimen>
+
+
+    <dimen name="margin_topToDo">40dp</dimen>
+    <dimen name="margin_Linear_ToDo">20dp</dimen>
+    <dimen name="icon_size_todo_edit">60dp</dimen>
+    <dimen name="button_size_todo_W">200dp</dimen>
+    <dimen name="button_size_todo_H">80dp</dimen>
+    <dimen name="editText_todo_H">180dp</dimen>
+    <dimen name="sticky_icon_text_size">18sp</dimen>
+    <dimen name="text_size_title_sticky">30sp</dimen>
+    <dimen name="notepad_margin">6dp</dimen>
+    <dimen name="item_border_width">5dp</dimen>
+    <dimen name="tabs_text_size">22sp</dimen>
+    <dimen name="toolbar_text_size">25sp</dimen>
+    <dimen name="todo_padding">2dp</dimen>
+    <dimen name="todo_edit_text_size">22sp</dimen>
+
+</resources>
